@@ -1,0 +1,55 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: fantasy;
+    background-color: rgb(230, 179, 127);
+ }
+ .encabezado{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    align-items: center;
+ }
+ .categorias{
+   
+ }
+.categories{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+
+
+}
+.imagen{
+width: 40%;
+height: 40%;
+
+}
+footer{
+background-color: rgba(49, 17, 4, 0.783);
+height: 300px;
+display: grid;
+align-items: end;
+
+}
+.pie-de-pag{
+    display: flex;
+    justify-content:space-evenly;
+    align-items:end;
+}
+.ddhh{
+    font-size: small;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    
+}
+.redes{
+    width:10px;
+}
+.imagen-redes{
+    width: 50px;
+}
+
